@@ -1,2 +1,2 @@
-# exerc-cios-POO
+# exercicios-POO
 Exercícios de POO 
