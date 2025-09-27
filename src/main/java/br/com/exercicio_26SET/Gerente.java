@@ -1,4 +1,4 @@
-package br.com.domain;
+package br.com.exercicio_26SET;
 
 public class Gerente extends Funcionario{
 

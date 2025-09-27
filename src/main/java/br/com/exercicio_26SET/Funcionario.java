@@ -1,7 +1,4 @@
-package br.com.domain;
-
-import java.security.ProtectionDomain;
-import java.security.SecureRandom;
+package br.com.exercicio_26SET;
 
 public abstract class Funcionario {
 

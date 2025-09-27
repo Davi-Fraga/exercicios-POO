@@ -1,4 +1,4 @@
-package br.com.domain;
+package br.com.exercicio_26SET;
 
 public class SistemaRH {
 
