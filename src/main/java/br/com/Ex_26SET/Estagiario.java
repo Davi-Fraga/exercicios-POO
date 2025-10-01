@@ -1,4 +1,4 @@
-package br.com.exercicio_26SET;
+package br.com.Ex_26SET;
 
 public class Estagiario extends Funcionario {
 
